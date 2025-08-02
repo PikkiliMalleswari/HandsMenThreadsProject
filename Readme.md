@@ -39,3 +39,7 @@ During this virtual internship project, I:
 - Flow Automation (Screen & Record-Triggered)  
 - Apex & Apex Triggers  
 - Asynchronous Apex Processing  
+
+
+⚠️ Note
+This project was completed as part of a guided internship assignment from Salesforce.
